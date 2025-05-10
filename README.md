@@ -33,11 +33,11 @@
 ---
 
 ### 📬 Reach Me
-- 🕹️ **Roblox**: [QG3](https://www.roblox.com/users/44948055/profile)
+- 🎮 **Roblox**: [QG3](https://www.roblox.com/users/44948055/profile)
 - 💬 **Discord**: `qgthree`
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emanuelyousif&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=controlflowguard&show_icons=true&theme=tokyonight" />
 </p>
